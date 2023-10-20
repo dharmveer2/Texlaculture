@@ -39,7 +39,7 @@ const Mobileview = () => {
 
      
      
-      <div className='keyboard'>
+      <div className='keyboard1'>
   <div className='row'>
     <button className='key'>1</button>
     <button className='key'>

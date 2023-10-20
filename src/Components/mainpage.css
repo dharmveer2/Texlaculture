@@ -162,7 +162,14 @@
     background-color: #D1D5DB;
     padding: 10px;
     width: 22rem;
-    margin-top: 6rem;
+    margin-top: 14rem;
+    border-radius: 6px;
+  }
+  .keyboard1 {
+    background-color: #D1D5DB;
+    padding: 10px;
+    width: 22rem;
+    margin-top: 19rem;
     border-radius: 6px;
   }
   
