@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Texlaculture/static/css/main.0815ea27.css",
+    "main.js": "/Texlaculture/static/js/main.e6dec7ea.js",
+    "static/js/787.bfa388ea.chunk.js": "/Texlaculture/static/js/787.bfa388ea.chunk.js",
+    "static/media/pic2.gif": "/Texlaculture/static/media/pic2.cf9881cca889ae4dfcc9.gif",
+    "static/media/pic1.gif": "/Texlaculture/static/media/pic1.5b8a3b151dd341205188.gif",
+    "index.html": "/Texlaculture/index.html",
+    "main.0815ea27.css.map": "/Texlaculture/static/css/main.0815ea27.css.map",
+    "main.e6dec7ea.js.map": "/Texlaculture/static/js/main.e6dec7ea.js.map",
+    "787.bfa388ea.chunk.js.map": "/Texlaculture/static/js/787.bfa388ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0815ea27.css",
+    "static/js/main.e6dec7ea.js"
+  ]
+}
