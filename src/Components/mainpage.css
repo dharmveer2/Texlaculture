@@ -1,0 +1,217 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,200;6..12,400&display=swap');
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Nunito Sans', sans-serif;
+    
+  }
+  .container1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    height: 100vh;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  .image img {
+    margin-top: 1rem;
+    width: 315px;
+    height: 316px;
+  }
+
+  .image2 img {
+    margin-top: 1rem;
+    width: 290px;
+    height: 291px;
+  }
+  
+  .heading {
+    align-items: center;
+    color: black;
+    font-family:sans-serif;
+    margin-top: 3rem;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  .paragraph{
+    font-family: 'Nunito Sans', sans-serif;
+  }
+ 
+  
+  .button {
+    margin-top: 5rem;
+    width: 264px;
+    height: 57px;
+    border-radius: 7px;
+    border: 2px solid #7B2CBF;
+    background-color: #7B2CBF;
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+   
+  }
+  
+  .center-text {
+    text-align: center;
+    width: 350px;
+  }
+
+  .main{
+   
+    width: 370px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 3rem;
+    gap: 2px;
+  }
+  .logo1{
+    color: white;
+    background-color:#7B2CBF;
+    width:37px;
+    height: 33px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 32px;
+    font-weight: 800;
+    font-size: 22px;
+    
+
+  }
+  .logo2{
+    color: #7B2CBF;
+    text-align: center;
+    line-height: 32px;
+    font-weight: 600;
+    font-size: 22px;
+
+  }
+
+  .input-container {
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .flag {
+    margin-right: 10px; 
+    border: 2px solid black;
+    width: 80px;
+    height: 50px;
+    border-radius: 14px;
+    text-align: center;
+    line-height: 52px;
+    font-weight: bold;
+
+    }
+  
+  .blue-text {
+    color: #5A189A;
+  }
+  
+  .get-otp-button {
+    background-color: #5A189A;
+    color: white;
+    width: 371px;
+    height: 50px;
+    cursor: pointer;
+    border: #5A189A;
+    border-radius: 12px;
+  }
+  
+  .help-text {
+    margin-top: 20px; 
+  }
+  
+  .inp{
+    width: 273px;
+    height: 50px;
+    border-radius: 18px;
+
+  }
+  
+  .inp::placeholder {
+    padding: 12px; 
+  }
+
+  .mob h3{
+    font-weight: 28px;
+  }
+  .mob h5{
+    font-family: 14px;
+    color: #616161;
+  }
+
+
+  .terms{
+    font-weight: 600;
+    font-size: 12px;
+  }
+
+  .help-text{
+    font-weight: 600;
+    font-size: 12px;
+    color: #616161;
+
+  }
+
+
+  .keyboard {
+    background-color: #D1D5DB;
+    padding: 10px;
+    width: 22rem;
+    margin-top: 6rem;
+    border-radius: 6px;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .key {
+    background-color: #FCFCFE;
+    color: black;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 7rem;
+    font-weight: 600;
+    font-size: 12px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: 600;
+    font-size: 12px;
+    height: 45px;
+  }
+  
+  .sub-label {
+    margin-top: 1px;
+    font-size: 10px;
+    font-weight: 600;
+    font-size: 12px;
+  }
+  
+  
+  .symbol-key {
+    background-color: #FCFCFE;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 12px;
+  }
+  
+  .row1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  
